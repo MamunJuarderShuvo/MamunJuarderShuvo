@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MamunJuarderShuvo
 - 👀 I’m interested in sofware testing
-- 🌱 I’m currently learning sofwtare testing tools
+- 🌱 I’m currently learning software testing tools
 - 💞️ I’m collaborated with software teams
 - 📫 Reach me on 'mamunjoardar3@gmail.com'
 
